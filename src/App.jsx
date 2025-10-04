@@ -28,7 +28,7 @@ export default function App() {
   };
 
   const handleName = () => {
-    setExpression("Geromin Roshan Manese - IT3B");
+    setExpression("Geromin Roshan Manese");
   };
 
   return (
